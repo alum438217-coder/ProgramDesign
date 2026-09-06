@@ -13,5 +13,6 @@ int main(void){
     cout << "Hello, world." << endl;
     cout << math.abs(-5) << endl;
     cout << "update-msg Hello, world." << endl;
+    cout << "third Hello, world." << endl;
     return 0;
 }
