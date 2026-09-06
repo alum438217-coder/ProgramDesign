@@ -12,5 +12,6 @@ int main(void){
     Math math;
     cout << "Hello, world." << endl;
     cout << math.abs(-5) << endl;
+    cout << "update-msg Hello, world." << endl;
     return 0;
 }
